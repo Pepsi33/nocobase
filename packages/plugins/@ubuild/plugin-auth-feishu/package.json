@@ -1,0 +1,20 @@
+{
+  "name": "@ubuild/plugin-auth-feishu",
+  "displayName": "Auth: Feishu",
+  "displayName.ru-RU": "Аутентификация: Feishu",
+  "displayName.zh-CN": "认证：飞书",
+  "description": "Feishu authentication.",
+  "description.ru-RU": "Аутентификация по Feishu.",
+  "description.zh-CN": "通过飞书认证身份。",
+  "version": "1.9.32",
+  "main": "dist/server/index.js",
+  "dependencies": {},
+  "peerDependencies": {
+    "@nocobase/client": "1.x",
+    "@nocobase/server": "1.x",
+    "@nocobase/test": "1.x"
+  },
+  "keywords": [
+    "Authentication"
+  ]
+}
